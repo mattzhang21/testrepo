@@ -1,6 +1,6 @@
 #include<stdio.h>
 
 int main(){
-  printf("hello world from subbr\n");
+  printf("hello world from init\n");
   return 0;
 }
